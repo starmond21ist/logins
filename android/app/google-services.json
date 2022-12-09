@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94657630949",
+    "project_id": "mitchymobile-4ecc6",
+    "storage_bucket": "mitchymobile-4ecc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94657630949:android:315a001fa33ae60870fa0c",
+        "android_client_info": {
+          "package_name": "com.example.mitchy_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94657630949-ts61r4skmshf308bbb4ce8t4937bqi07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mitchy_mobile_app",
+            "certificate_hash": "e8000ece3922ee2e0e4540b338185d8327675b50"
+          }
+        },
+        {
+          "client_id": "94657630949-us3nplhl5tesd4rhuntnr3d65mnnr96p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPim1TMW8JuuKEtgUW40lN13hornF1zXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94657630949-us3nplhl5tesd4rhuntnr3d65mnnr96p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
